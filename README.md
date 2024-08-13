@@ -10,8 +10,8 @@ I'm currently attending Algonquin College, where I'm studying Business Systems D
 
 
 ## Stats
-+ [![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=myhavok)](https://github.com/myhavok/github-readme-stats)
-
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=myhavok"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myhavok&layout=compact"/>
 
 
 ## 📚 What I’m Currently Learning
