@@ -1,4 +1,4 @@
-## Hi, I'm Edwin! 👋
+## Hi, I'm Ugo! 👋
 
 I'm currently attending Algonquin College, where I'm studying Business Systems Development. My passion for technology extends to various fields, including cybersecurity, programming, and web development. Here’s a bit more about me:
 
