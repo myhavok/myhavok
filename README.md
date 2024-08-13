@@ -8,14 +8,9 @@ I'm currently attending Algonquin College, where I'm studying Business Systems D
 + 🌐 Web Developer: I also enjoy web development, working with languages like HTML, CSS, and Javascript to create engaging and responsive websites.
 + 🔒 Cybersecurity: My curiosity and skills in Python have drawn me to the field of cybersecurity, where I explore and create projects related to network security and data protection.
 
-## 💼 Experience
-+ 💻 Cybersecurity Projects: I have completed various projects related to cybersecurity, including  project demonstrating a basic implementation of a TCP client and server using Python's socket library and a security monitoring system. Check out some of my projects below!
-+ 🌟 Web Development: From e-commerce platforms to personal blogs, I have developed and contributed to several web development projects.
-+ 🛠️ Automation: I have worked on automating various tasks to increase efficiency and reduce manual effort.
 
 ## Stats
 + [![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=myhavok)](https://github.com/myhavok/github-readme-stats)
-
 
 
 
