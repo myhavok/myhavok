@@ -19,9 +19,6 @@ I'm currently attending Algonquin College, where I'm studying Business Systems D
 + 🔒 Advanced Cybersecurity: Continuing to enhance my skills in network security and ethical hacking.
 + 🤖 AI & Machine Learning: Exploring the applications of AI in cybersecurity and automation.
 
-## 📫 Get in Touch
-+ ([LinkedIn])(https://www.linkedin.com/in/ugomomah/)– Connect with me!
-+ ([Email])(mailto:ugomomah3@gmail.com) – Feel free to reach out!
 
 
 
