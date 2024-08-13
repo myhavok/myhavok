@@ -25,8 +25,8 @@ I'm currently attending Algonquin College, where I'm studying Business Systems D
 + 🤖 AI & Machine Learning: Exploring the applications of AI in cybersecurity and automation.
 
 ## 📫 Get in Touch
-+ ([LinkedIn](https://www.linkedin.com/in/ugomomah/)– Connect with me!
-+ [Email](mailto:ugomomah3@gmail.com) – Feel free to reach out!
++ ([LinkedIn])(https://www.linkedin.com/in/ugomomah/)– Connect with me!
++ ([Email])(mailto:ugomomah3@gmail.com) – Feel free to reach out!
 
 ## 📂 Projects
 Here are some of my recent projects:
