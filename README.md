@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I'm Edwin! 👋
 
-<!--
-**myhavok/myhavok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently attending Algonquin College, where I'm studying Business Systems Development. My passion for technology extends to various fields, including cybersecurity, programming, and web development. Here’s a bit more about me:
 
-Here are some ideas to get you started:
+## 🔍 About Me
++ 🎓 Education: Pursuing a Bachelor of Technology in Business Systems Development at Algonquin College.
++ 🐍 Python Enthusiast: I love using Python to automate tasks and solve problems, which has fueled my interest in cybersecurity and programming.
++ 🌐 Web Developer: I also enjoy web development, working with languages like HTML, CSS, and Javascript to create engaging and responsive websites.
++ 🔒 Cybersecurity: My curiosity and skills in Python have drawn me to the field of cybersecurity, where I explore and create projects related to network security and data protection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
++ 💻 Cybersecurity Projects: I have completed various projects related to cybersecurity, including  project demonstrating a basic implementation of a TCP client and server using Python's socket library and a security monitoring system. Check out some of my projects below!
++ 🌟 Web Development: From e-commerce platforms to personal blogs, I have developed and contributed to several web development projects.
++ 🛠️ Automation: I have worked on automating various tasks to increase efficiency and reduce manual effort.
+
+## 🚀 Skills
++ Programming Languages: Python, HTML, CSS, Javascript, SQL
++ Frameworks & Libraries: Webflow, Flask, Django
++ Tools & Technologies: Git, GitHub, Parallels, 
++ Cybersecurity: Network security, vulnerability assessments, incident response
+
+## 📚 What I’m Currently Learning
++ 🌩️ Cloud Computing: Expanding my knowledge in cloud platforms and services.
++ 🔒 Advanced Cybersecurity: Continuing to enhance my skills in network security and ethical hacking.
++ 🤖 AI & Machine Learning: Exploring the applications of AI in cybersecurity and automation.
+
+## 📫 Get in Touch
++ ([LinkedIn](https://www.linkedin.com/in/ugomomah/)– Connect with me!
++ [Email](mailto:ugomomah3@gmail.com) – Feel free to reach out!
+
+## 📂 Projects
+Here are some of my recent projects:
++ TCP Client and Server – A basic implementation of a TCP client and server using Python’s socket library.
++ Web Security Academy Exercises – Solutions and notes from my exercises at the Web Security Academy.
+
