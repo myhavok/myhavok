@@ -13,11 +13,11 @@ I'm currently attending Algonquin College, where I'm studying Business Systems D
 + 🌟 Web Development: From e-commerce platforms to personal blogs, I have developed and contributed to several web development projects.
 + 🛠️ Automation: I have worked on automating various tasks to increase efficiency and reduce manual effort.
 
-## 🚀 Skills
-+ Programming Languages: Python, HTML, CSS, Javascript, SQL
-+ Frameworks & Libraries: Webflow, Flask, Django
-+ Tools & Technologies: Git, GitHub, Parallels, 
-+ Cybersecurity: Network security, vulnerability assessments, incident response
+## Stats
++ [![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=myhavok)](https://github.com/myhavok/github-readme-stats)
+
+
+
 
 ## 📚 What I’m Currently Learning
 + 🌩️ Cloud Computing: Expanding my knowledge in cloud platforms and services.
@@ -28,8 +28,5 @@ I'm currently attending Algonquin College, where I'm studying Business Systems D
 + ([LinkedIn])(https://www.linkedin.com/in/ugomomah/)– Connect with me!
 + ([Email])(mailto:ugomomah3@gmail.com) – Feel free to reach out!
 
-## 📂 Projects
-Here are some of my recent projects:
-+ TCP Client and Server – A basic implementation of a TCP client and server using Python’s socket library.
-+ Web Security Academy Exercises – Solutions and notes from my exercises at the Web Security Academy.
+
 
