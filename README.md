@@ -1,16 +1,41 @@
-## Hi, I'm Ugo! 👋
 
-I'm currently attending Algonquin College, where I'm studying Business Systems Development. My passion for technology extends to various fields, including cybersecurity, programming, and web development. Here’s a bit more about me:
+# Hi, I'm Ugo! 👋  
 
-## 🔍 About Me
-+ 🎓 Education: Pursuing a Bachelor of Technology in Business Systems Development at Algonquin College.
-+ 🐍 Python Enthusiast: I love using Python to automate tasks and solve problems.
-+ 🌐 Web Developer: I also enjoy web development, working with languages like HTML, CSS, and Javascript to create engaging and responsive websites.
-+ 🔒 Cybersecurity: My curiosity and skills in Python have drawn me to the field of cybersecurity, where I explore and create projects related to network security and data protection.
+🚀 **Aspiring Business Systems Developer** | 🌐 **Web Developer** | 🔒 **Cybersecurity Enthusiast**  
 
+Welcome to my GitHub! I'm a driven student at **Algonquin College**, pursuing a Bachelor of Technology in **Business Systems Development**, where I merge technical expertise with business insights to solve real-world problems.  
 
-## Stats
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=myhavok"/>
+---
+
+## 🔍 About Me  
+- 🎓 **Education**: Bachelor of Technology in Business Systems Development at **Algonquin College**.  
+- 🐖 **Python Enthusiast**: Skilled in automating tasks, creating efficient solutions, and crafting secure programs.  
+- 🌐 **Web Development**: Experienced in **HTML**, **CSS**, **JavaScript**, and frameworks like **Webflow**, building responsive and user-friendly websites.  
+- 🔒 **Cybersecurity**: Passionate about network security, ethical hacking, and safeguarding data using Python-driven solutions.  
+- 🌱 **Lifelong Learner**: Continuously expanding my knowledge in cloud computing, DevOps, and advanced security practices.  
+
+---
+
+## 💼 My Skills  
+- **Programming**: Python, Java, JavaScript, SQL, HTML, CSS  
+- **Cybersecurity**: Network security, vulnerability analysis, penetration testing  
+- **Web Development**: Responsive design, UI/UX optimization, Webflow integration  
+- **Tools**: Git, Linux, Docker, Android Studio, VS Code   
+
+---
+
+## 📊 GitHub Stats  
+
+![Ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=myhavok&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myhavok&layout=compact&theme=radical)  
+
+---
+
+## 🤝 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ugomomah)   
+- ✉️ **Email**: ugomomah3@gmail.com  
+
+---
 
 
 
