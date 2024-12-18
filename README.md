@@ -40,12 +40,6 @@ Welcome to my GitHub! I'm a driven student at **Algonquin College**, pursuing a 
 
 ---
 
-## 🤝 Connect With Me  
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ugomomah)   
-- ✉️ **Email**: ugomomah3@gmail.com  
-
----
-
 
 
 
