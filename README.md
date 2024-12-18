@@ -1,6 +1,15 @@
 
 # Hi, I'm Ugo! 👋  
 
+<div align ="center" />
+  
+<img src="https://i.imgur.com/6RregRT.gif" width="50%" />
+
+<div align="center"> 
+
+![Profile Views](https://komarev.com/ghpvc/?username=myhavok&color=blue&style=flat-square)  
+
+
 🚀 **Aspiring Business Systems Developer** | 🌐 **Web Developer** | 🔒 **Cybersecurity Enthusiast**  
 
 Welcome to my GitHub! I'm a driven student at **Algonquin College**, pursuing a Bachelor of Technology in **Business Systems Development**, where I merge technical expertise with business insights to solve real-world problems.  
@@ -32,7 +41,7 @@ Welcome to my GitHub! I'm a driven student at **Algonquin College**, pursuing a 
 ---
 
 ## 🤝 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ugomomah)   
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ugomomah)   
 - ✉️ **Email**: ugomomah3@gmail.com  
 
 ---
